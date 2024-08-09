@@ -1,0 +1,16 @@
+{
+  "name": "js-backend-devlopment",
+  "version": "1.0.0",
+  "description": "a backend in at chai aur code channel - youtube ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javasript",
+    "backend",
+    "chai"
+  ],
+  "author": "Rushikesh Ghevari",
+  "license": "ISC"
+}
